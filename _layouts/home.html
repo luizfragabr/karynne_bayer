@@ -16,34 +16,39 @@ layout: compress
         <div class="container animated fadeIn">
             <div class="row">
                     <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                        <img src="{{ site.logo_principal }}" class="img-circle zoombtn animated rotateIn">
                     </a>
                     <h3 class="title">
                         <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300"><img src="{{ site.url }}/favicon-psicologia-50x50.png"> {{ site.title }}</p>
+                        	<p style="font-size:1.2rem;font-weight:300"><!--<img src="{{ site.url }}/favicon-psicologia-50x50.png"> -->{{ site.title }}</p>
 			            </a>
                     </h3>
                     <hr class="hr-line">
                     <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
+                        
+                        	<p style="font-size:1rem;font-weight:300">{{ site.boas_vindas }}</p>
+                            <p style="font-size:1rem;font-weight:300;font-style: italic">{{ site.citacao }}</p>
+                            <p style="font-size:1rem;font-weight:300">{{ site.forma_atendimento }}</p>
+                            <p style="font-size:1rem;font-weight:300">{{ site.agendamento }}</p>
+                            <p style="font-size:1rem;font-weight:300">{{ site.redes_sociais }}</p>
+			            
                     </h3>
                     {% include social-links.html %}
                   <hr class="hr-line">
                   <h3 class="title">
                          <a class="btn zoombtn" href="{{ site.url }}/about">
-                            Sobre mim
+                            Conheça Karynne
                          </a>
                          <a class="btn zoombtn" href="{{ site.url }}/contact">
                             Consultório
                          </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/projects">
-                            Para Empresas
-                         </a>
                          <a class="btn zoombtn" href="{{ site.url }}/posts">
                             Blog
-                         </a> 
+                         </a>
+                         <a class="btn zoombtn" href="{{ site.url }}/projects">
+                            Empresas
+                         </a>
+                          
                  </h3>
             </div>
         </div>

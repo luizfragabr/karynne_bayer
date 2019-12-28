@@ -8,18 +8,16 @@ comments: false
 
 ## Karynne Cordeiro Bayer
 
-[//]: ![Foto](../assets/img/content/karynne.jpg)
-<img style="width: 150px;padding: 10px; float: left;" src="{{ site.url }}/assets/img/content/karynne.jpg">
+[//]: ![Foto](../assets/img/content/foto1.jpg)
+<img style="width: 150px;padding: 10px; float: left;" src="{{ site.url }}/assets/img/content/foto1.jpg">
 
-<i class="fas fa-graduation-cap fa-lg"></i> Psicóloga pela Universidade Federal Fluminense, Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília, com pesquisa em qualidade de vida no trabalho dos pilotos do transporte aéreo público regular de passageiros no Brasil.
+Sou Karynne Bayer, psicóloga clínica e do trabalho há mais de 12 anos, professora, palestrante, e estudiosa do campo da saúde emocional e trabalho. Além disso, posso dizer que sou uma mulher obstinada pela ideia de reconstruir vidas e promover saúde emocional para aqueles ao meu redor.
 
-<i class="far fa-address-card fa-lg"></i> Credenciada pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos para investigação e prevenção de acidentes e incidentes aeronáuticos, com foco nos Fatores Humanos.
+Em 2007, começava minha jornada como Psicóloga. Formada pela Universidade Federal Fluminense (UFF) em Niterói-RJ, acumulei desde então experiências como psicóloga organizacional e do trabalho em empresas multinacionais e na Força Aérea Brasileira; conquistei meu Mestrado pela Universidade de Brasília (UnB), com pesquisa voltada ao estudo da Qualidade de Vida no Trabalho; e sigo atualmente na prática clínica, com foco no tratamento da Ansiedade, Depressão, e adoecimentos relacionados à saúde emocional no trabalho, como a Síndrome de _Burnout_, Fadiga, entre outros.
 
-<i class="fas fa-briefcase fa-lg"></i> Foi Chefe da Assessoria de Fatores Humanos do referido Centro, onde participou da confecção e revisão de Relatórios Finais emitidos pelo CENIPA; da formação de profissionais para atuação na investigação e prevenção no âmbito SIPAER; da regulamentação, capacitação e acompanhamento da atuação dos psicólogos e médicos credenciados no Brasil para a condução das atividades de investigação e prevenção no âmbito dos Fatores Humanos; e da composição de comissões para trabalhos de prevenção, treinamentos e investigação de acidentes aeronáuticos da aviação civil e militar brasileira.
+Sou apaixonada pelo trabalho voltado à promoção da cura. E por isso, meu compromisso é reconstruir, junto com meus clientes, sua autoconfiança e esperança, sua saúde emocional e sua qualidade de vida. É extremamente gratificante caminhar junto com eles, e ouvi-los testemunharem sobre a reconstrução de novos sentidos de vida, que os permitem, verdadeiramente, reconhecer o seu novo lugar no mundo.
 
-<i class="fas fa-chart-line fa-lg"></i> Participou no CENIPA de projetos de pesquisa para aprimoramento da metodologia de investigação dos Fatores Humanos, atualização do programa de CRM, gerenciamento da fadiga e elevação dos níveis de segurança de voo nas unidades áreas da FAB.
-
-<i class="far fa-check-square fa-lg"></i> Possui também experiência com gestão de RH, treinamento, recrutamento e seleção em instituições como Instituto de Psicologia da Aeronáutica, TIM Celular S/A, Intelig Telecom, Correios e Universidade Federal Fluminense.
+Estendo esse meu compromisso ao solo das empresas, com palestras e serviços de consultoria, prezando pela promoção da saúde emocional no trabalho. A proposta visa o comprometimento honesto e responsável das organizações pela qualidade de vida no trabalho de seus profissionais, provando que saúde, felicidade e produtividade podem, e devem, caminhar lado a lado!
 
 [//]: To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
 
