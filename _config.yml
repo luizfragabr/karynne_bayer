@@ -9,17 +9,16 @@ description:        "Psicóloga pela Universidade Federal Fluminense,
                     Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
 reading_time:       true
 words_per_minute:   200
-logo_interno:               'assets/img/logo-verde.jpg'
-logo_principal:               'assets/img/content/foto_rosto.jpg'
-#background:         'assets/img/placeholder-big.jpg'
+logo_interno:       'assets/img/logo-verde.jpg'
+logo_principal:     'assets/img/content/foto_rosto.jpg'
+#background:        'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # true = Usa a imagem de fundo tamanho normal; false = tamanho extendido.
 locale:             pt_BR
-#url:               http://localhost:4000  # URL Local para desenvolvimento.
-url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
-
-# Variáveis Globais
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
+baseurl:            '' # subcaminho para o site, exemplo: /blog
+url:               https://karynnebayer.netlify.com # URL de produção.
+
 
 # Jekyll
 permalink:          /:title/  # URLs amigáveis.
@@ -40,7 +39,6 @@ sass:
 disqus_shortname:   karynne-bayer
 
 # Social
-# if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
   #analytics:
