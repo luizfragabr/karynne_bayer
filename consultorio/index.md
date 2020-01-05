@@ -14,7 +14,7 @@ comments: false
 * Transtorno ou Síndrome de Pânico
 * Transtorno Bipolar
 * Fobia
-* Síndrome de --Burnout--
+* Síndrome de *Burnout*
 * Esgotamento / Fadiga mental
 * TOC - Transtorno Obsessivo-Compulsivo
 * TAG - Transtorno de Ansiedade Generalizada
