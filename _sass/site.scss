@@ -39,7 +39,7 @@ body {
 	width: 100%;
 	min-height: 300px;
 	text-align: left;
-	color: $white;
+	color: #DDE7D7;
 	@media #{$small} {
 		display: block !important;
 	}
@@ -70,8 +70,8 @@ body {
 	align-items: center;
 }
 .container {
-	width: 36rem;
-	max-width: 550px;
+	width: 40rem;
+	max-width: 600px;
 	padding-right: 15px;
 	padding-left: 15px;
 	@include center-block();

@@ -1,12 +1,11 @@
 # Site
 title:              PSICÓLOGA KARYNNE BAYER 
 boas_vindas:        'Bem-vindo a este espaço terapêutico!'
-citacao:            '”O meu resultado é a reconstrução da sua saúde emocional e a criação de novas esperanças!”'
+citacao:            '”O meu resultado é a sua saúde emocional e o seu bem-estar de volta!”'
 forma_atendimento:  'Atendimentos on-line e presencial'
 agendamento:        'Agende sua consulta pelo número (21) 99893-4111 ou por WhatsApp'
 redes_sociais:      'Siga-me também nas redes sociais.'
-description:        "Psicóloga pela Universidade Federal Fluminense, 
-                    Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
+description:        "Focada no tratamento da ansiedade, depressão, e adoecimentos relacionados à saúde emocional no trabalho." # Colocar aqui uma breve descrição.
 reading_time:       true
 words_per_minute:   200
 logo_interno:       'assets/img/logo-verde.jpg'
