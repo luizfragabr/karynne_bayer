@@ -14,13 +14,13 @@ comments: false
 * Transtorno ou Síndrome de Pânico
 * Transtorno Bipolar
 * Fobia
-* Sexualidade
-* Falar em público
-* Talentos, pontos fortes
+* Síndrome de --Burnout--
+* Esgotamento / Fadiga mental
 * TOC - Transtorno Obsessivo-Compulsivo
-* TEI - Transtorno Explosivo Intermitente
 * TAG - Transtorno de Ansiedade Generalizada
 * TEPT - Transtorno de Estresse Pós-traumático
+* Falar em público
+* Talentos, pontos fortes
 * Outros atendimentos
 
 ---
